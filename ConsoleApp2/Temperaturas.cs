@@ -36,6 +36,7 @@ namespace TemperaturasSemana
                 }
             }
 
+
             // Calcular promedio
             for (int i = 0; i < temperaturas.Length; i++)
             {
@@ -53,7 +54,7 @@ namespace TemperaturasSemana
                     diasAbajo++;
             }
 
-            Console.WriteLine($"Promedio semanal: {promedio:F1}°C");
+            Console.WriteLine($"Promedio semanal: {promedio:F2}°C");
             Console.WriteLine($"Días por encima del promedio: {diasArriba}");
             Console.WriteLine($"Días por debajo del promedio: {diasAbajo}");
         }

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\",
+  "WorkspaceRootPath": "D:\\GitHUB\\Parcial-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6E47583-D961-4A8C-BB80-C0963A25010B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\joaqu\\onedrive\\documentos\\github\\parcial-1\\consoleapp1\\numeros aleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6E47583-D961-4A8C-BB80-C0963A25010B}|ConsoleApp1\\ConsoleApp1.csproj|d:\\github\\parcial-1\\consoleapp1\\numeros aleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6E47583-D961-4A8C-BB80-C0963A25010B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\numeros aleatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\joaqu\\onedrive\\documentos\\github\\parcial-1\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|d:\\github\\parcial-1\\consoleapp2\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\joaqu\\onedrive\\documentos\\github\\parcial-1\\consoleapp2\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\temperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|d:\\github\\parcial-1\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E98FE4C7-677D-45E8-B2A4-D5D665402BA2}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Temperaturas.cs",
-              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp2\\Temperaturas.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial-1\\ConsoleApp2\\Temperaturas.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Temperaturas.cs",
-              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp2\\Temperaturas.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial-1\\ConsoleApp2\\Temperaturas.cs",
               "RelativeToolTip": "ConsoleApp2\\Temperaturas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T18:06:05.452Z",
               "EditorCaption": ""
@@ -49,27 +49,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Numeros aleatorios.cs",
-              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp1\\Numeros aleatorios.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial-1\\ConsoleApp1\\Numeros aleatorios.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Numeros aleatorios.cs",
-              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp1\\Numeros aleatorios.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial-1\\ConsoleApp1\\Numeros aleatorios.cs",
               "RelativeToolTip": "ConsoleApp1\\Numeros aleatorios.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T18:05:42.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp2",
-              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp2\\ConsoleApp2.csproj",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial-1\\ConsoleApp2\\ConsoleApp2.csproj",
               "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
-              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Documentos\\GitHub\\Parcial-1\\ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "D:\\GitHUB\\Parcial-1\\ConsoleApp2\\ConsoleApp2.csproj",
               "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T18:04:32.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T18:04:32.648Z"
             }
           ]
         }

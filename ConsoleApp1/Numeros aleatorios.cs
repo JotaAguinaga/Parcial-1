@@ -34,6 +34,14 @@ internal class Program
                     maximo = num;
                 }
             }
+            int minimo = listaNumeros[0];
+            foreach (int num in listaNumeros)
+            {
+                if (num < minimo)
+                {
+                    minimo = num;
+                }
+            }
 
             Console.Write("\nLista generada: ");
 
@@ -45,6 +53,7 @@ internal class Program
 
             Console.WriteLine($"El número más grande sin ordenar la lista es: {maximo}");
             Console.WriteLine($"El número más grande ordenando la lista es: {listaNumeros.Max()}");
+            Console.WriteLine($"El número más pequeño sin ordenar la lista es: {minimo}");  
         }
     }
 }
